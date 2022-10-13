@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<title>Resume</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<!-- CSS only -->
+<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" 
+integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <body>
+        <!----nav bar-->
+        <div class="container-fluid col-10">
+           <div class="text-responsive">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="navbar" style="font-size: 2vh;">
+                <span class="bold"><nav class="nav navbar-brand">Ajith</nav></span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                data-bs-target="#menu">
+                <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12">
+
+                </line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+                </button>
+                <div class="collapse navbar-collapse" id="menu">
+                    <ul class="navbar-nav ms-auto mb-lg-0">
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="19itr003@gmail.com">
+                                E-mail</a></li>
+                     
+                        
+
+                        
+                              
+                </div>
+            </nav>            <!---career objective--->
+            <section id="career">
+                <div class="row">
+                    <div class="col-lg-6 order-1 pt-5">
+                        <h1 style="color: #00BFFF"><u>CAREAR OBJECTIVE</u></h1>
+                        <p class="my-lg-2 my-3">
+                            I am looking for an entry-level position to kickstart 
+                            my career in the (specify field). I wish to work in a dynamic organisation 
+                            that will contribute to my professional and personal growth while I contribute
+                             to the growth of the company as well as engage in
+                              opportunities to further the company’s goals
+                        </p>
+                            
+                        </div>
+                    <div class="col-lg-6  py-lg-5 py-3 order-sm-2 pt-5">
+                        <img src="ajith.jpg" class="img-fluid">
+                    </div>
+                </div>
+            </section>
+            <!-------------------------academic activities------------------------>
+            
+            <h1 style="color:#00BFFF;"><u>ACADEMIC ACHIVEMENTS</u></h1>
+            <section id="ACADEMIC" style="font-size:medium;">
+            <table class="table table-striped table-dark">
+                <thead>
+                  <tr>
+                    <th scope="col">Course</th>
+                    <th scope="col">year</th>
+                    <th scope="col">Institution</th>
+                    <th scope="col">University</th>
+                    <th scope="col">board</th>
+                    <th scope="col">performance</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">1</th>
+                    <td>B.tech</td>
+                    	<td>2019-2023</td>
+                    <td>Kongu Engineering College</td>	
+                    <td>Anna University</td>
+                    <td>8.62 cgpa</td>
+                    
+                  </tr>
+                  <tr>
+                    <th scope="row">2</th>
+                    <td> HSC</td>
+                    <td> 2019</td>	
+                    <td> Blue Bird Higher Secondary School</td>	
+                    <td> State board</td>
+                    <td> 79%</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">3</th>
+                   <td> SSLC</td>	
+                    <td>  2017</td>	
+                    <td> Veveaham Higher Secondary School</td>	
+                    <td>State board</td>	
+                    <td> 89%</td>
+                  </tr>
+                </tbody>
+              </table>
+            </section>
+            <br><br>
+            <h1 style="color:#00BFFF;"><u>AREA OF INTEREST</u></h1>
+            <section id="AREA OF INTEREST">
+                <div class="row">
+                    <div class="col-lg-6 col-12">
+                        <div class="card bg-dark mb-3">
+                        <div class="card-body">
+                          <h5 class="card-title" style="color:#00BFFF;">Web development</h5>
+                          <p class="card-text" style="color:white">Web development is the work involved in developing
+                               a Web site for the Internet (World Wide Web) or an intranet (a private network).
+                               Among Web professionals, "Web development" usually refers to the main non-design
+                               aspects of building Web sites: writing markup and coding.</p>
+                          
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="card bg-dark mb-3">
+                        <div class="card-body">
+                          <h5 class="card-title"style="color:#00BFFF;">DBMS</h5>
+                          <p class="card-text"style="color:white;">
+                            Stands for "Database Management System." In short, a DBMS is a database program. 
+                           
+                            DBMS software primarily functions as an 
+                              interface between the end user and the database, simultaneously managing the data,
+                               the database engine, and the database 
+                              schema in order to facilitate the organization and manipulation of data.</p>
+                             
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+            </section>
+            <div class="row">
+                <div class="col-lg-6 col-12">
+            <h1 style="color:#00BFFF;"><u>LANGUAGE KNOWN</u></h1>
+            <section id="language">
+                <ul class="list-group" style="font-size: 1em;">
+                    <li class="list-group-item" style="font-weight:large;">C</li>
+                    <li class="list-group-item list-group-item-primary" style="font-weight:large;">Java</li>
+                    <li class="list-group-item list-group-item-secondary" style="font-weight:large;">Python</li>
+                    <li class="list-group-item list-group-item-success" style="font-weight:large;">HTML,CSS,bootstrap</li>
+                    <li class="list-group-item list-group-item-danger" style="font-weight:large;">SQL</li>
+                
+                </section>
+                  </ul>
+                </div>
+                </div>
+              
+    </body>
+
+
